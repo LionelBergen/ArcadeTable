@@ -20,6 +20,7 @@ https://www.mamedev.org/
 
 # RetroPi setup   
 **Ip address**: 10.0.0.56 SSH enabled       
-
+**Username**: pi
+**Password**: raspberry   
 
 
