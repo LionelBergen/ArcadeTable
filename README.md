@@ -29,3 +29,9 @@ https://www.mamedev.org/
 ### No network connection (Wired & Wireless)
 For some reason the network wasn't working during install, or even afterwards (without package-manager due to network issue).   
 **Solution:** Install debian with graphical userface on the ISO (DVD ISO install from debian website).     
+
+## Installing RetroPie   
+### Cannot locate packages  
+1) Remove cd-rom from the list of packages and restore the default by running `sudo cp /usr/share/doc/apt/examples/sources.list /etc/apt/sources.list`.
+2) `apt-get install upgrade`, `apt-get install update`.
+3) Now you can run `apt-get install git` and follow the steps: `https://github.com/RetroPie/RetroPie-Docs/blob/master/docs/Debian.md`. **Note: you can skip the `sudo apt install -y git dialog unzip xmlstarlet` step **
