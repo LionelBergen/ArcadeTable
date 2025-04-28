@@ -24,3 +24,8 @@ https://www.mamedev.org/
 **Password**: raspberry    
 
 
+# Issues
+## Installing Linux   
+### No network connection (Wired & Wireless)
+For some reason the network wasn't working during install, or even afterwards (without package-manager due to network issue).   
+**Solution:** Install debian with graphical userface on the ISO (DVD ISO install from debian website).     
