@@ -15,6 +15,10 @@ https://www.mamedev.org/
 **$31 Aliexpress** https://www.aliexpress.com/item/1005003980453193.html  
 
 
+# Linux Setup (New)   
+**SAMSUNG LS24C33XG**     
+
+
 
 
 
