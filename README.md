@@ -20,6 +20,7 @@ https://www.mamedev.org/
 **retrogaming**      
 **dpp55**     
 **10.0.0.71**    
+Rom Location: /home/retrogaming/RetroPie/roms/snes       
 
 https://serverfault.com/questions/598392/ftp-550-permission-denied    
 sudo nano /etc/vsftpd.conf     
