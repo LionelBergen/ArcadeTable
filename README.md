@@ -17,6 +17,10 @@ https://www.mamedev.org/
 
 # Linux Setup (New)   
 **SAMSUNG LS24C33XG**     
+**retrogaming**      
+**dpp5588**     
+**10.0.0.71**    
+
 
 
 
