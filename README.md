@@ -22,6 +22,8 @@ https://www.mamedev.org/
 **10.0.0.71**    
 
 https://serverfault.com/questions/598392/ftp-550-permission-denied    
+sudo nano /etc/vsftpd.conf     
+
 
 
 
